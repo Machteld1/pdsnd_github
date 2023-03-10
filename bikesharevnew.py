@@ -202,7 +202,7 @@ def user_stats(df):
     print('-'*40)
 
 def raw_data(df):
-    """Asks user whether 5 rows of raw data should be displayed. Loop till user answers 'no'"""
+    """Asks user whether five rows of raw data should be displayed. Loop till user answers 'no'"""
     start_loc = 0
     valid_answers = ('yes','no')
     display_rows = ('no')
