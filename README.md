@@ -4,7 +4,7 @@
 March 10th, 2023
 
 ### Project Title
-US Bikeshare project
+US Bikeshare project user interface
 
 ### Description
 The US Bikeshare projects provides a user interface for retrieving Bikeshare Statistics for either Chicago, New York City or Washington: 
