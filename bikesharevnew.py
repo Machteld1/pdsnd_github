@@ -211,7 +211,7 @@ def raw_data(df):
         if view_data in valid_answers:
                 break
         else:
-                print('That\'s not a valid entry, pls try again!')
+                print('That\'s not a valid entry, pls try again!!')
 
     while True:
         if view_data in display_rows:
