@@ -207,11 +207,11 @@ def raw_data(df):
     valid_answers = ('yes','no')
     display_rows = ('no')
     while True:
-        view_data = input('\nWould you like to view 5 rows of individual trip data? Enter yes or no\n').lower()
+        view_data = input('\nWould you like to view five rows of individual trip data? Enter yes or no\n').lower()
         if view_data in valid_answers:
                 break
         else:
-                print('That\'s not a valid entry, pls try again!')
+                print('That\'s not a valid entry, pls try again!!')
 
     while True:
         if view_data in display_rows:
